@@ -1,3 +1,6 @@
 == Blerg
 
 A first week experience on Rails.
+
+
+Take a look at http://tj-jf-blerg.cfapps.io/
